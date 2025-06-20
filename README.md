@@ -7,7 +7,7 @@
 <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="30px">&nbsp;***About me***
 
 I'm a computer systems engineering student. I have experience in C#. I'm passionate about learning and creating something new, productive, innovative, and creative.
-* **🎮 I'm passionate about web design, video game development, and creating apps that truly make students' lives easier.**
+**🎮 I'm passionate about web design, video game development, and creating apps that truly make students' lives easier.**
 - 🌱 I’m currently learning ...
   - Python, exploring how to turn ideas into real-world solutions.
 - 💬 If you have a question and it's in my area, count me in!

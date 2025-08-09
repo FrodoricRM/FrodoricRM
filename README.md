@@ -37,7 +37,7 @@ Currently studying computer systems engineering, with hands-on experience in C#.
 <a href= "https://www.facebook.com/freddy.rosales.mogollon?locale=es_LA">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 
-<a href= "https://www.instagram.com/mapachito.exe/">
+<a href= "https://www.instagram.com/mapachito.root/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">  
   
 <a href= "https://open.spotify.com/user/31ccp3ppukjklfc4gqa7ybljhuju?si=a3412196928a4c3d">
